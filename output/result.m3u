@@ -397,7 +397,7 @@ http://101.35.240.114:88/live.php?id=山东卫视&replay=1&days=7
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视IPV4",山西卫视
 http://101.35.240.114:88/live.php?id=山西卫视&replay=1&days=7
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视IPV4",广西卫视
-http://101.35.240.114:88/live.php?id=广西卫视&replay=1&days=7
+rtmp://live.gxrb.com.cn/hls/a23&replay=1&days=7
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视IPV4",河北卫视
 http://101.35.240.114:88/live.php?id=河北卫视&replay=1&days=7
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视IPV4",河南卫视

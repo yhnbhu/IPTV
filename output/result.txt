@@ -205,7 +205,7 @@ TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82
 安徽卫视,http://101.35.240.114:88/live.php?id=安徽卫视
 山东卫视,http://101.35.240.114:88/live.php?id=山东卫视
 山西卫视,http://101.35.240.114:88/live.php?id=山西卫视
-广西卫视,http://101.35.240.114:88/live.php?id=广西卫视
+广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 河北卫视,http://101.35.240.114:88/live.php?id=河北卫视
 河南卫视,http://101.35.240.114:88/live.php?id=河南卫视
 甘肃卫视,http://101.35.240.114:88/live.php?id=甘肃卫视
