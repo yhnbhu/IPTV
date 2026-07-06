@@ -187,11 +187,11 @@ http://111.43.126.240:9003/hls/87/index.m3u8&replay=1&days=7
 
 #EXTGRP:广东,
 #EXTINF:-1 group-title="广东",广州综合
+http://r.jdshipin.com/snhya&replay=1&days=7
+#EXTINF:-1 group-title="广东",广州综合
 http://php.jdshipin.com:8880/gztv.php?id=zhonghe&replay=1&days=7
 #EXTINF:-1 group-title="广东",广州新闻
 http://php.jdshipin.com:8880/gztv.php?id=xinwen&replay=1&days=7
-#EXTINF:-1 group-title="广东",广州综合
-http://r.jdshipin.com/snhya&replay=1&days=7
 #EXTINF:-1 group-title="广东",广州综合
 http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8&replay=1&days=7
 #EXTINF:-1 group-title="广东",广州新闻
@@ -260,6 +260,24 @@ http://php.jdshipin.com:8880/smt.php?id=j2_twn&replay=1&days=7
 #EXTGRP:大杂烩,
 #EXTINF:-1 group-title="大杂烩",TVB Plus
 http://8hb85846je10.vicp.fun:5000/bysid/82&replay=1&days=7
+
+#EXTGRP:上海电视
+#EXTINF:-1 tvg-name="东方卫视" group-title="上海电视",东方卫视
+http://iptv.catvod.com/1?t=1783315461&token=eda6a5fc95a33161fb72c645c0adf02710f4b4025f5e6b7a6ac8a0d56964a345&replay=1&days=7
+
+#EXTGRP:广东电视
+#EXTINF:-1 tvg-id="51" tvg-name="大湾区卫视" group-title="广东电视",大湾区卫视
+https://iptv.catvod.com/gdtv?id=51&t=1783308261&tk=gZdKwd97B0E-6sxZGYmcIWIMp5byK9gBLpG4zVM-_dA&replay=1&days=7
+#EXTINF:-1 tvg-id="47" tvg-name="广东体育" group-title="广东电视",广东体育
+https://iptv.catvod.com/gdtv?id=47&t=1783308261&tk=WLxN0SS79psuLKvDfTeO0cxwEqjFvSVv59PPuWtgJUc&replay=1&days=7
+#EXTINF:-1 tvg-id="43" tvg-name="广东卫视" group-title="广东电视",广东卫视
+https://iptv.catvod.com/gdtv?id=43&t=1783308261&tk=TtjY5T7jPrFTjpoqILOecvG3R5HhTwBMFRv6CxTSkpI&replay=1&days=7
+#EXTINF:-1 tvg-id="45" tvg-name="广东新闻" group-title="广东电视",广东新闻
+https://iptv.catvod.com/gdtv?id=45&t=1783308261&tk=LfyghP-0xwSUBaCuLtrKuoeJj5LwgCME1mYQC5Jf-3Q&replay=1&days=7
+#EXTINF:-1 tvg-id="48" tvg-name="广东民生" group-title="广东电视",广东民生
+https://iptv.catvod.com/gdtv?id=48&t=1783308261&tk=LAMdplL7W1Wn1gtF5WKcTbZqOJi2h4JNApwltWoYwok&replay=1&days=7
+#EXTINF:-1 tvg-id="44" tvg-name="广东珠江" group-title="广东电视",广东珠江
+https://iptv.catvod.com/gdtv?id=44&t=1783308261&tk=4Vs-6z8oz4N9Z02kOZ6Vhrps1QwBGXbEtRM4xdYfJ68&replay=1&days=7
 
 #EXTGRP:💫央卫直播,
 #EXTINF:-1 group-title="💫央卫直播",东方卫视
