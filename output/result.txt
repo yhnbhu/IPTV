@@ -136,17 +136,6 @@ J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 大杂烩,#genre#
 TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82
 
-上海电视#genre#
-东方卫视,http://iptv.catvod.com/1?t=1783315461&token=eda6a5fc95a33161fb72c645c0adf02710f4b4025f5e6b7a6ac8a0d56964a345
-
-广东电视#genre#
-大湾区卫视,https://iptv.catvod.com/gdtv?id=51&t=1783308261&tk=gZdKwd97B0E-6sxZGYmcIWIMp5byK9gBLpG4zVM-_dA
-广东体育,https://iptv.catvod.com/gdtv?id=47&t=1783308261&tk=WLxN0SS79psuLKvDfTeO0cxwEqjFvSVv59PPuWtgJUc
-广东卫视,https://iptv.catvod.com/gdtv?id=43&t=1783308261&tk=TtjY5T7jPrFTjpoqILOecvG3R5HhTwBMFRv6CxTSkpI
-广东新闻,https://iptv.catvod.com/gdtv?id=45&t=1783308261&tk=LfyghP-0xwSUBaCuLtrKuoeJj5LwgCME1mYQC5Jf-3Q
-广东民生,https://iptv.catvod.com/gdtv?id=48&t=1783308261&tk=LAMdplL7W1Wn1gtF5WKcTbZqOJi2h4JNApwltWoYwok
-广东珠江,https://iptv.catvod.com/gdtv?id=44&t=1783308261&tk=4Vs-6z8oz4N9Z02kOZ6Vhrps1QwBGXbEtRM4xdYfJ68
-
 💫央卫直播,#genre#
 东方卫视,http://111.170.157.210:1081/?id=651632648&auth=95d4c11f9a4bc430bf05d5da4ace7ccb8e3b6074f417187c939ab4d40bbe6ab2282f8bfc6098ecb7139fb187c89b9ae1
 东方卫视,http://111.170.157.210:3099/liveinfo.ysp.cctv.cn/ysp/6063a5d3bcd6dc0cf8d068aa6fccc4c2:edac9d8d83440cf5cc9aaa193711e4ce91792f08029043a77c17bb61bc6bdfd79db0c572f94fcb0bc4cfed19dcdb1d0e01379f57f40e380491ff55699028d1df218fe852f11e5785ff23461c529b1a8357f691078b735862363dbda7df30fd9c2249d57e7623a899f176b60b549b68ae
